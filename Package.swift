@@ -1,4 +1,4 @@
-// swift-tools-version:4.3
+// swift-tools-version: 5.9
 
 //
 // Copyright (c) 2016-2017 Vladislav Prusakov <hipsterknights@gmail.com>
